@@ -43,4 +43,4 @@ This implementation highlights the flexibility of modern deep learning framework
 
 ## Example Images
 
-[Example Images of Neural Style Transfer](https://github.com/Sameh20200218AI/Style_Transfer_Using_VGG16_and_VGG19_DL/blob/main/Style%20Transfer%20Examples.png)
+[Style Transfer Examples.png](https://github.com/Sameh20200218AI/Style_Transfer_Using_VGG16_and_VGG19_DL/blob/main/Style%20Transfer%20Examples.png)
